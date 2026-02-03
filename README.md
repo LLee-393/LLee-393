@@ -3,12 +3,13 @@
 <!--
 **LLee-393/LLee-393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 
-Location: New Zealand
+### Cytometry in R starter questions:
 
-My Favorite Fluorophore: Pacific Blue
+- Location: New Zealand
 
-Previous Coding Experience: None!
+- My Favorite Fluorophore: Pacific Blue
 
-What I Hope to Get From This Course: I want to learn the basics of using R for flow cytometry
+- Previous Coding Experience: None!
+
+- What I Hope to Get From This Course: I want to learn the basics of using R for flow cytometry
 
